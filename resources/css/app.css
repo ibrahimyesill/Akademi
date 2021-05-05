@@ -1,3 +1,14 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+@import 'Frontend/barfiller.css';
+@import 'Frontend/bootstrap.min.css';
+@import 'Frontend/elegant-icons.css';
+@import 'Frontend/flaticon.css';
+@import 'Frontend/font-awesome.min.css';
+@import 'Frontend/jquery-ui.min.css';
+@import 'Frontend/magnific-popup.css';
+@import 'Frontend/nice-select.css';
+@import 'Frontend/owl.carousel.min.css';
+@import 'Frontend/slicknav.min.css';
+@import 'Frontend/style.css';
