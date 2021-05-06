@@ -134,7 +134,7 @@
                         </form>
                     </div>
                     <div class="blog__sidebar__recent">
-                        <h5>Recent Post</h5>
+                        <h5>İlgili Konferanslar</h5>
                         <a href="#" class="blog__sidebar__recent__item">
                             <div class="blog__sidebar__recent__item__pic">
                                 <img src="img/blog/recent-1.jpg" alt="">
