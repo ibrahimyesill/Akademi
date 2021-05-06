@@ -11,8 +11,8 @@
     border:1px solid #ccc;
     position:relative;
     margin-bottom:20px;
-    box-shadow: inset 1px 4px 9px -6px rgba(0,0,0,.5); 
-    -moz-box-shadow: inset 1px 4px 9px -6px rgba(0,0,0,.5); 
+    box-shadow: inset 1px 4px 9px -6px rgba(0,0,0,.5);
+    -moz-box-shadow: inset 1px 4px 9px -6px rgba(0,0,0,.5);
 }
 
 .barfiller .fill {
@@ -37,7 +37,7 @@
     position:absolute;
     z-index:2;
     background: #333;
-} 
+}
 
 .barfiller .tip:after {
     border:solid;
@@ -1215,7 +1215,7 @@ text-shadow: none;
 		font-size: 2em;
 	}
 
-	
+
 
 	/*
   	Flaticon icon font: Flaticon
@@ -1241,7 +1241,7 @@ text-shadow: none;
 }
 
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
-[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
   font-family: Flaticon;
   font-size: 20px;
   font-style: normal;
@@ -3960,6 +3960,7 @@ ol {
 .footer {
 	padding-top: 70px;
 	padding-bottom: 0;
+    background-color : #000000;
 }
 
 .footer__about {
@@ -3988,7 +3989,7 @@ ol {
 
 .footer__address ul li span {
 	font-size: 15px;
-	color: #707070;
+	color: #ffffff;
 	display: block;
 	margin-bottom: 5px;
 }
@@ -4003,13 +4004,13 @@ ol {
 .footer__address ul li .footer__social a {
 	display: inline-block;
 	font-size: 15px;
-	color: #707070;
+	color: #ffffff;
 	margin-right: 18px;
 	transition: all, 0.3s;
 }
 
 .footer__address ul li .footer__social a:hover {
-	color: #f03250;
+	color: #ffffff;
 }
 
 .footer__address ul li .footer__social a:last-child {
@@ -4032,7 +4033,7 @@ ol {
 
 .footer__widget ul li a {
 	font-size: 15px;
-	color: #707070;
+	color: #ffffff;
 	line-height: 32px;
 }
 
@@ -4046,14 +4047,14 @@ ol {
 
 .footer__copyright__text {
 	font-size: 15px;
-	color: #707070;
+	color: #ffffff;
 	float: left;
 }
 
 .footer__copyright__text span,
 .footer__copyright__text i,
 .footer__copyright__text a {
-	color: #f03250;
+	color: #ffffff;
 }
 
 .footer__copyright__links {
@@ -4063,7 +4064,7 @@ ol {
 .footer__copyright__links a {
 	display: inline-block;
 	font-size: 15px;
-	color: #707070;
+	color: #ffffff;
 	margin-right: 20px;
 	transition: all, 0.3s;
 }
@@ -5554,6 +5555,7 @@ ol {
 .blog-details-hero {
 	padding-top: 170px;
 	padding-bottom: 30px;
+
 }
 
 .blog__hero__text .label {
@@ -5581,8 +5583,9 @@ ol {
 	list-style: none;
 	display: inline-block;
 	font-size: 15px;
-	color: #a8a8a8;
+	color: #ededed;
 	margin-right: 30px;
+    font-weight: 600;
 }
 
 .blog__hero__text ul li:last-child {

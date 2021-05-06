@@ -1,4 +1,4 @@
-<footer class="footer">
+<footer class="footer ">
     <div class="container">
         <div class="row">
             <div class="col-lg-3 col-md-6">
@@ -10,11 +10,11 @@
                         you.</p> -->
                 </div>
             </div>
-            <div class="col-lg-4 offset-lg-1 col-md-6">
+            <div class="col-lg-4 offset-lg-1 col-md-6 ">
                 <div class="footer__address">
-                    <ul>
-                        <li>
-                            <span>Call Us:</span>
+                    <ul >
+                        <li >
+                            <span class="">Call Us:</span>
                             <p>(+12) 345-678-910</p>
                         </li>
                         <li>

@@ -13,7 +13,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
 
     <!-- Css Styles -->
-    <link rel="stylesheet" href="css/app.css" type="text/css">
+    <link rel="stylesheet" href="/css/app.css" type="text/css">
     @yield('css')
 </head>
 
@@ -32,7 +32,7 @@
     <!-- Footer Section End -->
 
     <!-- Js Plugins -->
-    <script src="js/app.js"></script>
+    <script src="/js/app.js"></script>
     @yield('script')
 </body>
 
