@@ -4,14 +4,15 @@
             <li class="active"><a href="/">Anasayfa</a></li>
             <li><a href="./listing.html">Vizyon</a></li>
             <li><a href="/conferences">Konferanslar</a></li>
-            <li><a href="#">Dergiler</a>
+            <li><a href="/magazines">Dergiler</a></li>
+            {{-- <li><a href="#"></a>
                 <ul class="dropdown">
                     <li><a href="./about.html">About</a></li>
                     <li><a href="./listing-details.html">Listing Details</a></li>
                     <li><a href="./blog-details.html">Blog Details</a></li>
                     <li><a href="./contact.html">Contact</a></li>
                 </ul>
-            </li>
+            </li> --}}
             <li><a href="./blog.html">İletişim</a></li>
             <!-- <li><a href="#">Shop</a></li> -->
         </ul>
